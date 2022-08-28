@@ -1,1 +1,1 @@
-web: gunicorn java -jar target/SuprDaily-1.0-SNAPSHOT.jar
+web: java -jar target/SuprDaily-1.0-SNAPSHOT.jar
